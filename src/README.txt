@@ -1,0 +1,1 @@
+A first project with aim to introduce myself to the basic concepts of Rust and (later on) the GGEZ game-engine as well as development using git and github. This read-me will be more of a documentation of the project rather than a pure read-me. So here goes, a first branch, commit and PR. WoopWoop!
